@@ -1,0 +1,1 @@
+\begin{table}\centering\caption{\label{table_lines} Emission lines summary}\begin{tabular}{c|c|c|c}Lines & Rest wavelength & $F_{int}$ & $F_{g} & $\lambda_{g}\end{tabular}
